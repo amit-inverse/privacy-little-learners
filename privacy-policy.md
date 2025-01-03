@@ -37,8 +37,15 @@ This app complies with all applicable legal and regulatory requirements, includi
 
 ---
 
+## Ads  
+
+This app contains ads from Google Admob.
+Ads displayed are appropriate for children and follow the Families ad format requirements.
+
+---
+
 ## Contact Us  
 
 If you have any questions, concerns, or feedback regarding this Privacy Policy, please feel free to reach out via email at **amit.inverse@gmail.com**.  
 
-This Privacy Policy is effective as of **01-01-2024**.  
+This Privacy Policy is effective as of **02-01-2024**.  
