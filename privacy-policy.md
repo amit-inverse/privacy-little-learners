@@ -48,4 +48,4 @@ Ads displayed are appropriate for children and follow the Families ad format req
 
 If you have any questions, concerns, or feedback regarding this Privacy Policy, please feel free to reach out via email at **amit.inverse@gmail.com**.  
 
-This Privacy Policy is effective as of **02-01-2024**.  
+This Privacy Policy is effective as of **January 02, 2024**.  
